@@ -1,0 +1,21 @@
+{
+    "name": "marcinmisiak/yii2-kontoldap",
+    "description": "Account in openLdap",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," LDAP"," openldap"],
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Marcin Misiak",
+            "email": "marcin@wseip.edu.pl"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "marcinmisiak\\kontoldap\\": ""
+        }
+    }
+}
